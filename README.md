@@ -86,26 +86,6 @@ python main.py
   Obstacles alternate between animations.
 
 
----
-
-## Wie füge ich Bilder in die README ein? | How to Add Images to the README
-
-1. **Deutsch:**  
-   - Erstelle einen Ordner namens `screenshots` im gleichen Verzeichnis wie die README-Datei.  
-   - Speichere deine Bilder dort und verlinke sie mit dem folgenden Markdown-Format:  
-     ```markdown
-     ![Beschreibung](./screenshots/dateiname.png)
-     ```  
-
-2. **English:**  
-   - Create a folder named `screenshots` in the same directory as the README file.  
-   - Save your images there and link them using the following Markdown format:  
-     ```markdown
-     ![Description](./screenshots/filename.png)
-     ```  
-
----
-
 ## Lizenz | License
 
 ### Deutsch:  
@@ -114,7 +94,3 @@ This project is licensed under the MIT License.
 
 ### English:  
 Feel free to modify and distribute the code under the terms of the MIT License.  
-
----
-
-Jetzt kannst du die gesamte README mit einem einzigen Kopieren-Befehl übernehmen. 😊
